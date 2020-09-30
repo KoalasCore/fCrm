@@ -1,4 +1,4 @@
-# Animated Splash Screen Example
+# fCrm The Personalized CRM Application for Sales Department Workers
 
 <p>
   <!-- iOS -->
@@ -9,7 +9,7 @@
   <img alt="Supports Expo Web" longdesc="Supports Expo Web" src="https://img.shields.io/badge/web-4630EB.svg?style=flat-square&logo=GOOGLE-CHROME&labelColor=4285F4&logoColor=fff" />
 </p>
 
-This example shows you how to create an animated splash screen for your app. It uses the app loading to load the assets required for the animation. Once that's loaded, it replaces the app loading with a custom component that loads the rest of your app. When all of this is finished, it uses an outro animation and renders the app.
+This is a personalized CRM application that supplies marking on the map for keeping consumers location and basic shop information.
 
 ## 🚀 How to use
 
@@ -17,8 +17,3 @@ This example shows you how to create an animated splash screen for your app. It 
 - Run [`expo start`](https://docs.expo.io/versions/latest/workflow/expo-cli/), try it out.
 - Wait until the app is built and downloaded. Press "run again" to reload the app and splash screen.
 
-## 📝 Notes
-
-- [Expo AppLoading docs](https://docs.expo.io/versions/latest/sdk/app-loading/)
-- [Expo Assets guide](https://docs.expo.io/versions/latest/guides/assets/)
-- [Expo Splash Screen guide](https://docs.expo.io/versions/latest/guides/splash-screens/)
