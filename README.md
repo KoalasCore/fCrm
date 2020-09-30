@@ -1,4 +1,4 @@
-# fCrm The Personalized CRM Application for Sales Department Workers
+# fCrm The Personalized CRM Application 
 
 <p>
   <!-- iOS -->
