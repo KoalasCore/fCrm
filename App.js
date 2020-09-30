@@ -110,20 +110,31 @@ function MainScreen() {
     <View
       style={{
         flex: 1,
-        backgroundColor: "plum",
+        backgroundColor: "#423e78",
         alignItems: "center",
         justifyContent: "center",
       }}
     >
       <Text
         style={{
-          color: "black",
-          fontSize: 30,
-          marginBottom: 15,
+          color: "#d3d2dd",
+          fontSize: 20,
+          marginBottom: 0,
           fontWeight: "bold",
         }}
       >
-        Pretty Cool!
+        Zeynep Kübra Kahveci
+      </Text>
+
+      <Text
+          style={{
+            color: "#d3d2dd",
+            fontSize: 20,
+            marginBottom: 0,
+            fontWeight: "bold",
+          }}
+      >
+        Tarkan Batar
       </Text>
       {/* reenable after Updates.reloadAsync() is allowed in dev mode */}
       {false && (
